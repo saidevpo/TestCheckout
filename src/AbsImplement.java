@@ -10,6 +10,7 @@ public class AbsImplement extends AbsTest{
 	@Override
 	void m2() {
 		System.out.println("abstract method 2");
+		System.out.println("abstract method 2 updated");
 		
 	}
 	
